@@ -23,6 +23,3 @@ else
 {
     console.log("inavlid marks")
 }
-a=2
-b=3
-console.log(a**b)
