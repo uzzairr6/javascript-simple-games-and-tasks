@@ -13,7 +13,7 @@ function vowels(str)
 
     console.log(count)
 }
-vowels("fizza")*/
+vowels("aaabc")*/
 
 /*function vowel(str)
 {
@@ -27,7 +27,7 @@ vowels("fizza")*/
     }
     console.log(count)
 }
-vowel("uzair")*/
+vowel("aabbc")*/
 
 const vowels=(str)=>
 {
@@ -41,4 +41,5 @@ const vowels=(str)=>
     }
     console.log(count)
 }
-vowels("uzair")
+vowels("bcdaeic")
+
